@@ -119,6 +119,24 @@ body:not(.rtl) .elementor-7 .elementor-element.elementor-element-678d0nv .elemen
 .elementor-7 .elementor-element.elementor-element-ezj33vg .elementor-image-box-title {margin-bottom: 5px;}
 .elementor-7 .elementor-element.elementor-element-ezj33vg .elementor-image-box-content .elementor-image-box-title {color: #5c98c9;}
 .elementor-7 .elementor-element.elementor-element-ezj33vg > .elementor-widget-container {border-radius: 100px 100px 100px 100px;}
+.elementor-7 .elementor-element.elementor-element-e851cf0.elementor-position-right .elementor-image-box-img {margin-left: 0px;}
+.elementor-7 .elementor-element.elementor-element-e851cf0.elementor-position-left .elementor-image-box-img {margin-right: 0px;}
+.elementor-7 .elementor-element.elementor-element-e851cf0.elementor-position-top .elementor-image-box-img {margin-bottom: 0px;}
+.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-wrapper .elementor-image-box-img {width: 0%;}
+.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-img img {transition-duration: .3s;}
+.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-wrapper {text-align: left;}
+.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-title {margin-bottom: 5px;}
+.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-content .elementor-image-box-title {color: #5c98c9;}
+.elementor-7 .elementor-element.elementor-element-e851cf0 > .elementor-widget-container {border-radius: 100px 100px 100px 100px;}
+.elementor-7 .elementor-element.elementor-element-e0383d8.elementor-position-right .elementor-image-box-img {margin-left: 0px;}
+.elementor-7 .elementor-element.elementor-element-e0383d8.elementor-position-left .elementor-image-box-img {margin-right: 0px;}
+.elementor-7 .elementor-element.elementor-element-e0383d8.elementor-position-top .elementor-image-box-img {margin-bottom: 0px;}
+.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-wrapper .elementor-image-box-img {width: 0%;}
+.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-img img {transition-duration: .3s;}
+.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-wrapper {text-align: left;}
+.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-title {margin-bottom: 5px;}
+.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-content .elementor-image-box-title {color: #5c98c9;}
+.elementor-7 .elementor-element.elementor-element-e0383d8 > .elementor-widget-container {border-radius: 100px 100px 100px 100px;}
 .elementor-7 .elementor-element.elementor-element-bpbpdfr .elementor-spacer-inner {height: 30px;}
 .elementor-7 .elementor-element.elementor-element-ghp28pr.elementor-position-right .elementor-image-box-img {margin-left: 0px;}
 .elementor-7 .elementor-element.elementor-element-ghp28pr.elementor-position-left .elementor-image-box-img {margin-right: 0px;}
@@ -202,6 +220,10 @@ body:not(.rtl) .elementor-7 .elementor-element.elementor-element-678d0nv .elemen
 	.elementor-7 .elementor-element.elementor-element-skpb230 .elementor-spacer-inner {height: 0px;}
 	.elementor-7 .elementor-element.elementor-element-ezj33vg .elementor-image-box-img {margin-bottom: 0px;}
 	.elementor-7 .elementor-element.elementor-element-ezj33vg .elementor-image-box-wrapper {text-align: center;}
+	.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-img {margin-bottom: 0px;}
+	.elementor-7 .elementor-element.elementor-element-e851cf0 .elementor-image-box-wrapper {text-align: center;}
+	.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-img {margin-bottom: 0px;}
+	.elementor-7 .elementor-element.elementor-element-e0383d8 .elementor-image-box-wrapper {text-align: center;}
 	.elementor-7 .elementor-element.elementor-element-bpbpdfr .elementor-spacer-inner {height: 30px;}
 	.elementor-7 .elementor-element.elementor-element-ghp28pr .elementor-image-box-img {margin-bottom: 0px;}
 	.elementor-7 .elementor-element.elementor-element-ghp28pr .elementor-image-box-wrapper {text-align: center;}
