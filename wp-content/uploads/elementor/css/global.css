@@ -9,13 +9,15 @@
 .elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {color: #7a7a7a;}
 .elementor-widget-icon.elementor-view-stacked .elementor-icon {background-color: #6ec1e4;}
 .elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg {fill: #6ec1e4;}
 .elementor-widget-icon-box.elementor-view-stacked .elementor-icon {background-color: #6ec1e4;}
-.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon {fill: #6ec1e4;color: #6ec1e4;border-color: #6ec1e4;}
 .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {color: #6ec1e4;}
 .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {color: #7a7a7a;}
 .elementor-widget-star-rating .elementor-star-rating__title {color: #7a7a7a;}
 .elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {border-color: #7a7a7a;}
 .elementor-widget-icon-list .elementor-icon-list-icon i {color: #6ec1e4;}
+.elementor-widget-icon-list .elementor-icon-list-icon svg {fill: #6ec1e4;}
 .elementor-widget-icon-list .elementor-icon-list-text {color: #54595f;}
 .elementor-widget-counter .elementor-counter-number-wrapper {color: #6ec1e4;}
 .elementor-widget-counter .elementor-counter-title {color: #54595f;}
