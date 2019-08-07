@@ -17,6 +17,7 @@
 body.rtl .elementor-106 .elementor-element.elementor-element-mflzqnt .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-15px / 2);}
 body:not(.rtl) .elementor-106 .elementor-element.elementor-element-mflzqnt .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-15px / 2);}
 .elementor-106 .elementor-element.elementor-element-mflzqnt .elementor-icon-list-icon i {color: #9bb4c9;font-size: 15px;}
+.elementor-106 .elementor-element.elementor-element-mflzqnt .elementor-icon-list-icon svg {fill: #9bb4c9;}
 .elementor-106 .elementor-element.elementor-element-mflzqnt .elementor-icon-list-icon {width: 15px;}
 .elementor-106 .elementor-element.elementor-element-mflzqnt .elementor-icon-list-text {padding-left: 10px;}
 .elementor-106 .elementor-element.elementor-element-er8q6w5.elementor-column .elementor-column-wrap {align-items: center;}
@@ -39,7 +40,7 @@ body:not(.rtl) .elementor-106 .elementor-element.elementor-element-mflzqnt .elem
 .elementor-106 .elementor-element.elementor-element-fzrcxxa .elementor-spacer-inner {height: 30px;}
 .elementor-106 .elementor-element.elementor-element-sezijmx > .elementor-element-populated {padding: 0px 50px 0px 50px;}
 .elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-106 .elementor-element.elementor-element-gjvmghx.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -50,7 +51,7 @@ body:not(.rtl) .elementor-106 .elementor-element.elementor-element-mflzqnt .elem
 .elementor-106 .elementor-element.elementor-element-uslqqqh .elementor-spacer-inner {height: 20px;}
 .elementor-106 .elementor-element.elementor-element-byzliwq > .elementor-element-populated {padding: 0px 40px 0px 40px;}
 .elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-106 .elementor-element.elementor-element-cmvygmx.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -61,7 +62,7 @@ body:not(.rtl) .elementor-106 .elementor-element.elementor-element-mflzqnt .elem
 .elementor-106 .elementor-element.elementor-element-rkcskvt .elementor-spacer-inner {height: 20px;}
 .elementor-106 .elementor-element.elementor-element-zmcbnhq > .elementor-element-populated {padding: 0px 50px 0px 50px;}
 .elementor-106 .elementor-element.elementor-element-cegevvw.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-106 .elementor-element.elementor-element-cegevvw.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-cegevvw.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-106 .elementor-element.elementor-element-cegevvw.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-cegevvw.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-106 .elementor-element.elementor-element-cegevvw.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-106 .elementor-element.elementor-element-cegevvw.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-106 .elementor-element.elementor-element-cegevvw.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -72,7 +73,7 @@ body:not(.rtl) .elementor-106 .elementor-element.elementor-element-mflzqnt .elem
 .elementor-106 .elementor-element.elementor-element-tumeyje .elementor-spacer-inner {height: 20px;}
 .elementor-106 .elementor-element.elementor-element-keoeqdf > .elementor-element-populated {padding: 0px 50px 0px 50px;}
 .elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-view-framed .elementor-icon, .elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-106 .elementor-element.elementor-element-uhwmpom.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -94,8 +95,9 @@ body:not(.rtl) .elementor-106 .elementor-element.elementor-element-mflzqnt .elem
 .elementor-106 .elementor-element.elementor-element-mzqyrqg > .elementor-element-populated {padding: 25px 25px 25px 25px;}
 .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button .elementor-align-icon-right {margin-left: 9px;}
 .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button .elementor-align-icon-left {margin-right: 9px;}
-.elementor-106 .elementor-element.elementor-element-qducpmz a.elementor-button, .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button {font-size: 1.1em;color: #9bb4c9;background-color: #fff;padding: 15px 35px 15px 35px;}
+.elementor-106 .elementor-element.elementor-element-qducpmz a.elementor-button, .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button {font-size: 1.1em;fill: #9bb4c9;color: #9bb4c9;background-color: #fff;padding: 15px 35px 15px 35px;}
 .elementor-106 .elementor-element.elementor-element-qducpmz a.elementor-button:hover, .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button:hover, .elementor-106 .elementor-element.elementor-element-qducpmz a.elementor-button:focus, .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button:focus {color: #fff;background-color: #3a3a3a;border-color: #3a3a3a;}
+.elementor-106 .elementor-element.elementor-element-qducpmz a.elementor-button:hover svg, .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button:hover svg, .elementor-106 .elementor-element.elementor-element-qducpmz a.elementor-button:focus svg, .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button:focus svg {fill: #fff;}
 .elementor-106 .elementor-element.elementor-element-qducpmz .elementor-button {border-style: solid;border-width: 2px 2px 2px 2px;border-color: #fff;}
 .elementor-106 .elementor-element.elementor-element-qducpmz > .elementor-widget-container {margin: 0px 0px 0px 20px;}
 .elementor-106 .elementor-element.elementor-element-yavvkjd .elementor-spacer-inner {height: 70px;}
