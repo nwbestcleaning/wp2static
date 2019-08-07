@@ -44,7 +44,7 @@
 .elementor-104 .elementor-element.elementor-element-l2zca9c.elementor-widget-heading .elementor-heading-title {color: #000;}
 .elementor-104 .elementor-element.elementor-element-d2dlxhv .elementor-spacer-inner {height: 30px;}
 .elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-view-framed .elementor-icon, .elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-view-framed .elementor-icon, .elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-104 .elementor-element.elementor-element-scsa9tj.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -54,7 +54,7 @@
 .elementor-104 .elementor-element.elementor-element-scsa9tj .elementor-icon-box-content .elementor-icon-box-title {color: #000;}
 .elementor-104 .elementor-element.elementor-element-ie3p1kh .elementor-spacer-inner {height: 20px;}
 .elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-view-framed .elementor-icon, .elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-view-framed .elementor-icon, .elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-104 .elementor-element.elementor-element-xfj0mnx.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -64,7 +64,7 @@
 .elementor-104 .elementor-element.elementor-element-xfj0mnx .elementor-icon-box-content .elementor-icon-box-title {color: #000;}
 .elementor-104 .elementor-element.elementor-element-zgm8s0d .elementor-spacer-inner {height: 20px;}
 .elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-view-stacked .elementor-icon {background-color: #9bb4c9;}
-.elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-view-framed .elementor-icon, .elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-view-default .elementor-icon {color: #9bb4c9;border-color: #9bb4c9;}
+.elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-view-framed .elementor-icon, .elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-view-default .elementor-icon {fill: #9bb4c9;color: #9bb4c9;border-color: #9bb4c9;}
 .elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
 .elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-position-left .elementor-icon-box-icon {margin-right: 0px;}
 .elementor-104 .elementor-element.elementor-element-vy9arqo.elementor-position-top .elementor-icon-box-icon {margin-bottom: 0px;}
@@ -91,8 +91,9 @@
 .elementor-104 .elementor-element.elementor-element-6ta7mmu > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button .elementor-align-icon-right {margin-left: 9px;}
 .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button .elementor-align-icon-left {margin-right: 9px;}
-.elementor-104 .elementor-element.elementor-element-s04mol2 a.elementor-button, .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button {color: #9bb4c9;background-color: #fff;border-radius: 0px 0px 0px 0px;}
+.elementor-104 .elementor-element.elementor-element-s04mol2 a.elementor-button, .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button {fill: #9bb4c9;color: #9bb4c9;background-color: #fff;border-radius: 0px 0px 0px 0px;}
 .elementor-104 .elementor-element.elementor-element-s04mol2 a.elementor-button:hover, .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button:hover, .elementor-104 .elementor-element.elementor-element-s04mol2 a.elementor-button:focus, .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button:focus {color: #fff;background-color: #3a3a3a;}
+.elementor-104 .elementor-element.elementor-element-s04mol2 a.elementor-button:hover svg, .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button:hover svg, .elementor-104 .elementor-element.elementor-element-s04mol2 a.elementor-button:focus svg, .elementor-104 .elementor-element.elementor-element-s04mol2 .elementor-button:focus svg {fill: #fff;}
 .elementor-104 .elementor-element.elementor-element-11chsw7 .elementor-spacer-inner {height: 70px;}
 .elementor-104 .elementor-element.elementor-element-bdkgvqk .elementor-spacer-inner {height: 74px;}
 .elementor-104 .elementor-element.elementor-element-y2ud07a {text-align: center;}
@@ -111,6 +112,7 @@
 body.rtl .elementor-104 .elementor-element.elementor-element-98ziprr .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-15px / 2);}
 body:not(.rtl) .elementor-104 .elementor-element.elementor-element-98ziprr .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-15px / 2);}
 .elementor-104 .elementor-element.elementor-element-98ziprr .elementor-icon-list-icon i {color: #9bb4c9;font-size: 15px;}
+.elementor-104 .elementor-element.elementor-element-98ziprr .elementor-icon-list-icon svg {fill: #9bb4c9;}
 .elementor-104 .elementor-element.elementor-element-98ziprr .elementor-icon-list-icon {width: 15px;}
 .elementor-104 .elementor-element.elementor-element-98ziprr .elementor-icon-list-text {padding-left: 10px;}
 @media (max-width:1024px) {.elementor-104 .elementor-element.elementor-element-rbhmppz > .elementor-element-populated {padding: 0px 40px 0px 40px;}
