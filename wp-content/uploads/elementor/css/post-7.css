@@ -44,6 +44,7 @@
 body.rtl .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-16px / 2);}
 body:not(.rtl) .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-16px / 2);}
 .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon i {color: #9bb4c9;font-size: 18px;}
+.elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon svg {fill: #9bb4c9;}
 .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon {width: 18px;}
 .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-text {color: #000;}
 .elementor-7 .elementor-element.elementor-element-i9mmg96 > .elementor-element-populated {padding: 0px 60px 0px 60px;}
