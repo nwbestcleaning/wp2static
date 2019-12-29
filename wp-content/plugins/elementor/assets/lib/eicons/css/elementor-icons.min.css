@@ -1,4 +1,4 @@
-@font-face {font-family: eicons;src: url("../fonts/eicons.eot?5.3.0");src: url("../fonts/eicons.eot?5.3.0#iefix") format("embedded-opentype"),url("../fonts/eicons.woff2?5.3.0") format("woff2"),url("../fonts/eicons.woff?5.3.0") format("woff"),url("../fonts/eicons.ttf?5.3.0") format("truetype"),url("../fonts/eicons.svg?5.3.0#eicon") format("svg");font-weight: 400;font-style: normal;}
+@font-face {font-family: eicons;src: url("../fonts/eicons.eot?5.4.0");src: url("../fonts/eicons.eot?5.4.0#iefix") format("embedded-opentype"),url("../fonts/eicons.woff2?5.4.0") format("woff2"),url("../fonts/eicons.woff?5.4.0") format("woff"),url("../fonts/eicons.ttf?5.4.0") format("truetype"),url("../fonts/eicons.svg?5.4.0#eicon") format("svg");font-weight: 400;font-style: normal;}
 [class*=" eicon-"], [class^=eicon] {display: inline-block;font-family: eicons;font-size: inherit;font-weight: 400;font-style: normal;font-variant: normal;line-height: 1;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 @keyframes a {0% {transform: rotate(0deg);}
 	to {transform: rotate(359deg);}}
@@ -96,7 +96,7 @@
 .eicon-slider-push:before {content: "";}
 .eicon-slider-vertical:before {content: "";}
 .eicon-slider-video:before {content: "";}
-.eicon-slideshow:before {content: "";}
+.eicon-slides:before {content: "";}
 .eicon-social-icons:before {content: "";}
 .eicon-spacer:before {content: "";}
 .eicon-table:before {content: "";}
@@ -110,7 +110,7 @@
 .eicon-time-line:before {content: "";}
 .eicon-toggle:before {content: "";}
 .eicon-url:before {content: "";}
-.eicon-type-tool:before {content: "";}
+.eicon-t-letter:before {content: "";}
 .eicon-wordpress:before {content: "";}
 .eicon-text:before {content: "";}
 .eicon-anchor:before {content: "";}
@@ -332,3 +332,9 @@
 .eicon-minus-circle:before {content: "";}
 .eicon-minus-circle-o:before {content: "";}
 .eicon-code-bold:before {content: "";}
+.eicon-cloud-upload:before {content: "";}
+.eicon-search-bold:before {content: "";}
+.eicon-map-pin:before {content: "";}
+.eicon-meetup:before {content: "";}
+.eicon-slideshow:before {content: "";}
+.eicon-t-letter-bold:before {content: "";}
