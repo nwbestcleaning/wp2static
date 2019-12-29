@@ -24,6 +24,7 @@
 .elementor-7 .elementor-element.elementor-element-c7mfzgd {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
 .elementor-7 .elementor-element.elementor-element-c7mfzgd > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-7 .elementor-element.elementor-element-rxpstgu > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-7 .elementor-element.elementor-element-91eo0sl > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-7 .elementor-element.elementor-element-91eo0sl {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-7 .elementor-element.elementor-element-91eo0sl > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-7 .elementor-element.elementor-element-kwat4pv:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-7 .elementor-element.elementor-element-kwat4pv > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
@@ -35,6 +36,7 @@
 .elementor-7 .elementor-element.elementor-element-hqm249b > .elementor-background-overlay {background-color: rgba(255,255,255,.75);opacity: .95;transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-7 .elementor-element.elementor-element-hqm249b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-7 .elementor-element.elementor-element-idd4npc .elementor-spacer-inner {height: 100px;}
+.elementor-7 .elementor-element.elementor-element-57rbbcf > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-7 .elementor-element.elementor-element-s8nu4m6 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 60px 40px 60px 40px;}
 .elementor-7 .elementor-element.elementor-element-s8nu4m6 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {padding-bottom: calc(16px / 2);}
@@ -44,8 +46,7 @@
 body.rtl .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-16px / 2);}
 body:not(.rtl) .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-16px / 2);}
 .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon i {color: #9bb4c9;font-size: 18px;}
-.elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon svg {fill: #9bb4c9;}
-.elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon {width: 18px;}
+.elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-icon svg {fill: #9bb4c9;width: 18px;}
 .elementor-7 .elementor-element.elementor-element-678d0nv .elementor-icon-list-text {color: #000;}
 .elementor-7 .elementor-element.elementor-element-i9mmg96 > .elementor-element-populated {padding: 0px 60px 0px 60px;}
 .elementor-7 .elementor-element.elementor-element-0d55kf1 {text-align: center;}
